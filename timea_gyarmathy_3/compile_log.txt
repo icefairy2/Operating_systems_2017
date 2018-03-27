@@ -1,0 +1,7 @@
+a3.c: In function ‘main’:
+a3.c:460:27: warning: unused variable ‘sect_header’ [-Wunused-variable]
+     struct section_header sect_header;
+                           ^
+a3.c:459:32: warning: unused variable ‘sf_header’ [-Wunused-variable]
+     struct section_file_header sf_header;
+                                ^
